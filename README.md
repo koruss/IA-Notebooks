@@ -28,3 +28,9 @@
 
 - spacy
 > pip install spacy
+
+- scikit learn
+> pip install -U scikit-learn
+
+- matplotlib
+> pip install matplotlib
