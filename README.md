@@ -25,3 +25,6 @@
 
 - seaborn
 > pip install seaborn
+
+- spacy
+> pip install spacy
